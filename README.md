@@ -1,3 +1,10 @@
+# Note from Kelly Heitz
+I'm pretty sure the CEO at my last job found this during my application, due to a comment made several months later, but no one asked me about it. So I want to clarify why I was interested in contributing to this project. It was not because my voice is under-represented in tech (I'm personally pretty comfortable speaking up in meetings). I also want to make it explicit that if I work with you, and you find this project - please feel free to ask me about it!
+
+My interest in this project actually derived from my time as a high school teacher. Research shows that around middle school, girls stop participating out loud in classrooms. While we can't be sure what mix of forces affect this, we also have broad, repeated research showing that teachers tend to interact differently with girls than boys: generally, girls are called upon less, given less time to cohere a response, and receive less praise for public contributions. Teachers (mostly women, still!) tend to not let girls hold the floor when they aren't sure, but let boys think through problems out loud and provide more coaching through that.
+
+Since I used to be a language teacher, and an *integral* aspect of mastering a world language is actually practicing speaking, I was intrinsically interested in how I could foster equal participation in my classroom. A common teaching approach when you are working on something is to ask a peer to sit in your classroom to provide you with feedback and observation. This struck me as an excellent tool for that scenario!
+
 # are-men-talking-too-much
 
 This is a silly & simple website for measuring who's dominating a conversation.
